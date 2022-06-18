@@ -1,4 +1,4 @@
-# **EJERCICIOS 5 - 9**
+# **EJERCICIOS 5 - 10**
 5. Utilizando dos clases, escribir un programa que capture en un arreglo de 10 elementos enteros, luego recorra el arreglo e indique si el elemento es un número primo o no, imprimiendo también la casilla en la que se encuentra ese número primo. Recordando que un número entero es primo si es divisible sólo por la unidad y por sí mismo.
 
 6. Elaborar un programa que lea una cadena de hasta 10 caracteres que represente un número romano e imprima el formato de ese número y su equivalente en numeración arábiga; los caracteres romanos y sus equivalentes son:
@@ -51,3 +51,5 @@ Adiviné en 6 intentos B-)
 9. Escribir un programa que encuentre dos cadenas introducidas por teclado que sean anagramas. Se considera que dos cadenas son anagramas si contienen exactamente los mismos caracteres, ya sea en el mismo o en diferente orden; ignorar los blancos y considerar que mayúsculas y minúsculas son iguales.
 
  - Por ejemplo: “esponja” y “japones” poseen las mismas letras pero en diferente orden. 
+ 
+10. Utilizando dos clases, al menos, realice una calculadora con las operaciones básicas, sumar, restar, multiplicar y dividir, cuidar la división entre cero. Validar que la entrada sean solamente números. Este programa deberá de tener una interfaz gráfica.
